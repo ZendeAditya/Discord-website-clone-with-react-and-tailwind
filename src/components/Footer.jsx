@@ -1,5 +1,5 @@
 import React from "react";
-import { BsFacebook, BsInstagram, BsTwitter, BsYoutube } from "react-icons/bs";
+import { BsFacebook, BsGithub, BsInstagram, BsTwitter, BsYoutube } from "react-icons/bs";
 
 function Footer() {
   return (
@@ -61,6 +61,9 @@ function Footer() {
               <BsInstagram />
               <BsFacebook />
               <BsYoutube />
+              <a href="https://github.com/ZendeAditya/Discord-website-clone-with-react-and-tailwind">
+              <BsGithub/>
+              </a>
             </div>
           </div>
           <div className="">
